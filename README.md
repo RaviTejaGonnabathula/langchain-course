@@ -1,5 +1,6 @@
-````markdown
 # LangChain Basics: Text Summarizer
+
+
 
 This repository contains a simple, professional **Hello World** example demonstrating how to build a **Text Summarizer** using **LangChain** and **OpenAI**.
 
@@ -39,7 +40,7 @@ https://platform.openai.com
 ```bash
 git clone https://github.com/YOUR_USERNAME/langchain-course.git
 cd langchain-course
-````
+```
 
 ---
 
